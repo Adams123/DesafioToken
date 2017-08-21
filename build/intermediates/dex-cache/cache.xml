@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adams\AndroidStudioProjects\TokenChallenge\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea22698fc79921d9c14610a182390d113eca58fe">
+        <dex dex="C:\Users\Adams\AndroidStudioProjects\TokenChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_50b7e0eb55f7298976cc8f83745f5e9362010c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adams\AndroidStudioProjects\TokenChallenge\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Adams\AndroidStudioProjects\TokenChallenge\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cef81073a9570cfadf0171c944c03b4d9a3c6d64\classes.dex" />
+    </item>
+
+</items>
